@@ -2,6 +2,7 @@
 
 Paso 1:
 Base de datos:
+
 Es necesario tener instalado MongoDB Database tools: https://www.mongodb.com/docs/database-tools/installation/installation/
 1. Entrar a la consola de comandos
 2. Ejecutar el comando: mongorestore --db proyecto_l ruta_de_la_carpeta_de_la_base,
@@ -15,6 +16,7 @@ la carpeta proyecto_l que fue proporcionada, esta ruta entre comillas dobles.
 
 Paso 2:
 Main:
+
 Es necesario tener inataladas las dependencias fastapi, pydantic, motor, bson, datetime, typing,
 
 Ejecución en Visual Studio Code:
