@@ -25,7 +25,7 @@ Ejecución en Visual Studio Code:
 3. Ejecutar el comando: fastapi dev main.py
 4. Acceder a http://127.0.0.1:8000/docs para verificar el funcionamiento
 
-Para probar el funcionamiento, se ejecutó el archivo main con el siguiente nombre de bucket: sistemas-distribuidos-proyecto-01
+Para probar el funcionamiento, se ejecutó el archivo main con el siguiente nombre de bucket: sistemas-distribuidos-proyecto-01 (Asegurarse de que sea un nombre único)
 ![image](https://github.com/user-attachments/assets/e652e6a0-0568-410f-8d45-c9875f06d6b0)
 
 Creación del bucket en S3
@@ -53,7 +53,4 @@ A continuación se muestra algunas pruebas de la API
 ![image](https://github.com/user-attachments/assets/f83c305f-9bac-466c-90b3-0ef07098aeb4)
 
 ![image](https://github.com/user-attachments/assets/7c97a107-df2e-4c16-8f77-671e639517f7)
-
-
-
 
