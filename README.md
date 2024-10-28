@@ -16,6 +16,7 @@ la carpeta proyecto_l que fue proporcionada, esta ruta entre comillas dobles.
 Paso 2:
 Main:
 **Es necesario tener inataladas las dependencias fastapi, pydantic, motor, bson, datetime, typing,
+
 Ejecución en Visual Studio Code:
 1. Abrir la carpeta donde se encuentre el archivo main.py, con Visual Studio Code. Nota importante: Se puede modificar el nombre del bucket en la primera linea si así se desea.
 2. Abrir una nueva terminal
@@ -33,3 +34,13 @@ A continuación se muestra algunas pruebas de la API
 
 1. GetAutor
 ![image](https://github.com/user-attachments/assets/54a9d7e6-29b0-41ba-bc49-704a37310f7e)
+
+
+2. Eliminar lector (David Alba)
+![image](https://github.com/user-attachments/assets/a07950d5-c677-4e52-9a52-ab867a0e4ce1)
+
+![image](https://github.com/user-attachments/assets/744ba27b-b2ff-4747-ba82-2d301d37de53)
+
+![image](https://github.com/user-attachments/assets/ae62a623-c2d2-498e-a9b3-6ad9b549ca7b)
+
+
