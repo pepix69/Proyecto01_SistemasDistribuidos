@@ -39,6 +39,14 @@ A continuación se muestra algunas pruebas de la API
 2. Eliminar lector (David Alba)
 ![image](https://github.com/user-attachments/assets/a07950d5-c677-4e52-9a52-ab867a0e4ce1)
 
+
+3. Crear bibliotecaria (Estefania Corrales)
+![image](https://github.com/user-attachments/assets/f83c305f-9bac-466c-90b3-0ef07098aeb4)
+
+![image](https://github.com/user-attachments/assets/7c97a107-df2e-4c16-8f77-671e639517f7)
+
+
+
 ![image](https://github.com/user-attachments/assets/744ba27b-b2ff-4747-ba82-2d301d37de53)
 
 ![image](https://github.com/user-attachments/assets/ae62a623-c2d2-498e-a9b3-6ad9b549ca7b)
